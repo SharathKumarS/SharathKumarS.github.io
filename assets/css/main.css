@@ -695,7 +695,7 @@ abbr {
 }
 
 mark, .mark {
-    background-color: #ff594f;
+    background-color: #ffa500;
     color: #fff;
 }
 
@@ -772,8 +772,8 @@ ul {
     line-height: 40px;
     border-radius: 50%;
     text-align: center;
-    border: 1px solid #000000;
-    color: #000000;
+    background: #333333;
+    color: #ffffff;
     font-size: 20px;
 }
 
@@ -956,7 +956,7 @@ ul {
 }
 
 .overlay-menu ul li.active > a, .overlay-menu ul li a:hover {
-    color: #ff594f;
+    color: #ffa500;
     text-decoration: line-through;
 }
 
@@ -2047,7 +2047,7 @@ ul {
     font-family: "Montserrat", sans-serif;
     font-size: 12px;
     text-transform: uppercase;
-    color: #ff594f;
+    color: #ffa500;
     margin-bottom: 0;
 }
 
@@ -2155,7 +2155,7 @@ ul {
 
 .progress__bar {
     position: absolute;
-    background-color: #ff594f;
+    background-color: #ffa500;
     left: 0;
     top: 0;
     bottom: 0;
@@ -2746,7 +2746,7 @@ ul {
 .swiper-pagination-bullet {
     width: 10px;
     height: 10px;
-    background-color: #ff594f;
+    background-color: #ffa500;
     vertical-align: middle;
 }
 
