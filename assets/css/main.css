@@ -772,8 +772,8 @@ ul {
     line-height: 40px;
     border-radius: 50%;
     text-align: center;
-    border: 1px solid #000000;
-    color: #000000;
+    background: #333333;
+    color: #ffffff;
     font-size: 20px;
 }
 
