@@ -13,7 +13,7 @@
 	font-family: 'Pe-icon-7-stroke';
 	speak: none;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
 	line-height: 1;
@@ -204,7 +204,7 @@
 	content: "\e602";
 }
 .pe-7s-voicemail:before {
-	content: "\e603";
+	content: "\e639";
 }
 .pe-7s-video:before {
 	content: "\e604";
@@ -378,7 +378,7 @@
 	content: "\e62b";
 }
 .pe-7s-note:before {
-	content: "\e62c";
+	content: "\e638";
 }
 .pe-7s-next:before {
 	content: "\e62d";
