@@ -475,6 +475,7 @@ hr {
 
 .md-btn--outline-primary {
     background-color: transparent;
+    font-weight: 500;
 }
 
 .md-btn--outline-primary:hover {
